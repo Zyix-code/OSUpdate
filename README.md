@@ -3,7 +3,6 @@
 ## İletişim 📫
 [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" aligin="left"/>][discord]
 [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" aligin="left" />][youtube]
-[<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" aligin="left" />][instagram]
 [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" aligin="left" />][spotify]
 [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" aligin="left" />][reddit]
 
