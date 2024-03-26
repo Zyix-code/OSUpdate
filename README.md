@@ -9,7 +9,6 @@
 
 **Discord:** Zyix#1002  
 **YouTube:** [Zyix YouTube][youtube]  
-**Instagram:** [selcukshn74][instagram]  
 **Spotify:** [Zyix Spotify][spotify]  
 **Reddit:** [_Zyix][reddit]  
 
@@ -50,6 +49,5 @@ Bu adımları takip ederek, OS UPDATE işlemini başarıyla gerçekleştirebilir
 
 [discord]: Zyix#1002
 [youtube]: https://www.youtube.com/channel/UC7uBi3y2HOCLde5MYWECynQ?view_as=subscriber
-[instagram]: https://www.instagram.com/selcukshn74/
 [reddit]: https://www.reddit.com/user/_Zyix
 [spotify]: https://open.spotify.com/user/07288iyoa19459y599jutdex6
