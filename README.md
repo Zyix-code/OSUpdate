@@ -3,13 +3,11 @@
 ## İletişim  👨‍💻
 [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" aligin="left"/>][discord]
 [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" aligin="left" />][youtube]
-[<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" aligin="left" />][instagram]
 [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" aligin="left" />][spotify]
 [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" aligin="left" />][reddit]
 
 [discord]: https://discordapp.com/users/Zyix#1002
 [youtube]: https://www.youtube.com/channel/UC7uBi3y2HOCLde5MYWECynQ?view_as=subscriber
-[instagram]: https://www.instagram.com/selcukshn74/
 [spotify]: https://open.spotify.com/user/07288iyoa19459y599jutdex6
 [reddit]: https://www.reddit.com/user/_Zyix
 
@@ -25,9 +23,23 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyix-code&layout=compact">
 </details>
 
-## OS UPDATE NASIL KULLANILIR?
-- Mevcut veritabanınız ile bağlantısını kurun.
-- Veritabanında versiyon adında bir tablo oluşturun.
-- Versiyon tablosunun içini doldurun.
-- Versiyona girdiğiniz sayı programın .exe versiyonundan küçükse güncelleme yapmayacak.
-- Programın .exe versiyonuna eşit ya da büyükse güncellemeyi bütün açık olan uygulamalara yapacaktır.
+## OS UPDATE Nasıl Kullanılır?
+1. **Veritabanı Bağlantısı Kurun:**
+   - Mevcut veritabanınız ile bağlantı kurun.
+
+2. **Versiyon Tablosu Oluşturun:**
+   - Veritabanında "versiyon" adında bir tablo oluşturun.
+
+3. **Versiyon Tablosunu Doldurun:**
+   - "Versiyon" tablosunu gerekli versiyon numaralarıyla doldurun.
+
+4. **Versiyon Kontrolü Yapın:**
+   - Programınız, .exe versiyonundan daha küçük bir versiyon numarası gördüğünde güncelleme yapmayacaktır.
+
+5. **Güncelleme Yapın:**
+   - .exe versiyonu, versiyon tablosunda belirtilen versiyon numarasına eşit veya daha büyükse, güncelleme işlemini bütün açık olan uygulamalara yapabilirsiniz.
+   - 
+[discord]: Zyix#1002
+[youtube]: https://www.youtube.com/channel/UC7uBi3y2HOCLde5MYWECynQ?view_as=subscriber
+[reddit]: https://www.reddit.com/user/_Zyix
+[spotify]: https://open.spotify.com/user/07288iyoa19459y599jutdex6
