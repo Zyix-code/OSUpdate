@@ -39,6 +39,8 @@
 5. **Güncelleme Yapın:**
    - .exe versiyonu, versiyon tablosunda belirtilen versiyon numarasına eşit veya daha büyükse, güncelleme işlemini bütün açık olan uygulamalara yapabilirsiniz.
 
+Bu adımları takip ederek, OS UPDATE işlemini başarıyla gerçekleştirebilirsiniz.
+
 [discord]: Zyix#1002
 [youtube]: https://www.youtube.com/channel/UC7uBi3y2HOCLde5MYWECynQ?view_as=subscriber
 [reddit]: https://www.reddit.com/user/_Zyix
