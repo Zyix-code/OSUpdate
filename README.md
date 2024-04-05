@@ -44,7 +44,7 @@
     How does the OS Update App work?
     
 1. **Establish Database Connection:**
-   - Create a table named "version" in the database.
+   - Connect with your existing database.
 
 2. **Create Version Table:**
    - Create a table named "version" in the database.
