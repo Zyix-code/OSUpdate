@@ -12,10 +12,11 @@
       [youtube]: https://www.youtube.com/channel/UC7uBi3y2HOCLde5MYWECynQ?view_as=subscriber
       [spotify]: https://open.spotify.com/user/07288iyoa19459y599jutdex6
       [reddit]: https://www.reddit.com/user/_Zyix
-  </samp>
-## Kullandığım Bazı Diller 🏫
+
+Kullandığım Bazı Diller 🏫
 <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="25" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25">
 
+  </samp>
 </p>
 <p align="center">
   <a href="https://discord.com/users/481831692399673375" target="_blank"><img src="https://lanyard.cnrad.dev/api/481831692399673375?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
