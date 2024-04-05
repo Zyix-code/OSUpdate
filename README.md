@@ -3,9 +3,10 @@
  <br><br>
   <samp>
     Hello there, I'm Selcuk 👋<br>
-    I'm 24 years old and a graduate in computer programming.<br>
-    I enjoy coding in my spare time.<br>
-    <br><br>😹 For Everything 👇</a>
+     [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" aligin="left"/>][discord]
+     [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" aligin="left" />][youtube]
+     [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" aligin="left" />][spotify]
+     [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" aligin="left" />][reddit]
   </samp>
 </p>
 <p align="center">
