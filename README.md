@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="150px">
 </p>
+
 <p align="center">
   <samp>
-    Merhaba, ben Selçuk 👋<br>
+    Hello there, I'm Selcuk! 👋<br>
   </samp>
 </p>
 
@@ -28,7 +29,7 @@
   </a>
 </p>
 
-<h3 align="center">Kullandığım Bazı Diller 🏫</h3>
+<h3 align="center">Some Languages I Use 🏫</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square" alt="C">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
@@ -37,23 +38,24 @@
   <img src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=flat-square" alt="CSS">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js">
 </p>
+
 <p align="center">
   <samp>
-    OS Update Uygulaması nasıl çalışır?
+    How does the OS Update App work?
     
-  1. **Veritabanı Bağlantısı Kurun:**
-   - Mevcut veritabanınız ile bağlantı kurun.
+  1. **Establish Database Connection:**
+   - Connect with your existing database.
 
-2. **Versiyon Tablosu Oluşturun:**
-   - Veritabanında "versiyon" adında bir tablo oluşturun.
+2. **Create Version Table:**
+   - Create a table named "version" in the database.
 
-3. **Versiyon Tablosunu Doldurun:**
-   - "Versiyon" tablosunu gerekli versiyon numaralarıyla doldurun.
+3. **Populate Version Table:**
+   - Populate the "version" table with necessary version numbers.
 
-4. **Versiyon Kontrolü Yapın:**
-   - Programınız, .exe versiyonundan daha küçük bir versiyon numarası gördüğünde güncelleme yapmayacaktır.
+4. **Perform Version Check:**
+   - Your program won't perform any update if it detects a version number smaller than the .exe version.
 
-5. **Güncelleme Yapın:**
-   - .exe versiyonu, versiyon tablosunda belirtilen versiyon numarasına eşit veya daha büyükse, güncelleme işlemini bütün açık olan uygulamalara yapabilirsiniz.
+5. **Perform Update:**
+   - If the .exe version is equal to or greater than the version number specified in the version table, you can perform the update across all open applications.
   </samp>
 </p>
