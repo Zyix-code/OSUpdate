@@ -7,6 +7,11 @@
      [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" aligin="left" />][youtube]
      [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" aligin="left" />][spotify]
      [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" aligin="left" />][reddit]
+
+      [discord]: https://discordapp.com/users/Zyix#1002
+      [youtube]: https://www.youtube.com/channel/UC7uBi3y2HOCLde5MYWECynQ?view_as=subscriber
+      [spotify]: https://open.spotify.com/user/07288iyoa19459y599jutdex6
+      [reddit]: https://www.reddit.com/user/_Zyix
   </samp>
 </p>
 <p align="center">
