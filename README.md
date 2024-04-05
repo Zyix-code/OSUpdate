@@ -37,3 +37,23 @@
   <img src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=flat-square" alt="CSS">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js">
 </p>
+<p align="center">
+  <samp>
+    OS Update Uygulaması nasıl çalışır?
+    
+  1. **Veritabanı Bağlantısı Kurun:**
+   - Mevcut veritabanınız ile bağlantı kurun.
+
+2. **Versiyon Tablosu Oluşturun:**
+   - Veritabanında "versiyon" adında bir tablo oluşturun.
+
+3. **Versiyon Tablosunu Doldurun:**
+   - "Versiyon" tablosunu gerekli versiyon numaralarıyla doldurun.
+
+4. **Versiyon Kontrolü Yapın:**
+   - Programınız, .exe versiyonundan daha küçük bir versiyon numarası gördüğünde güncelleme yapmayacaktır.
+
+5. **Güncelleme Yapın:**
+   - .exe versiyonu, versiyon tablosunda belirtilen versiyon numarasına eşit veya daha büyükse, güncelleme işlemini bütün açık olan uygulamalara yapabilirsiniz.
+  </samp>
+</p>
