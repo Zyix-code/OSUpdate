@@ -4,10 +4,6 @@
 <p align="center">
   <samp>
     Merhaba, ben Selçuk 👋<br>
-    [<img height="25" width="25" src="https://simpleicons.org/icons/discord.svg" />][discord]
-    [<img height="25" width="25" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
-    [<img height="25" width="25" src="https://simpleicons.org/icons/spotify.svg" />][spotify]
-    [<img height="25" width="25" src="https://simpleicons.org/icons/reddit.svg" />][reddit]
   </samp>
 </p>
 
