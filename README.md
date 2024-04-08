@@ -40,22 +40,22 @@
 </p>
 
 <p align="center">
-  <samp>
-    How does the OS Update App work?
+ <samp>
+    OSUpdate nasıl çalışır?
     
-1. **Establish Database Connection:**
-   - Connect with your existing database.
+1. **Veritabanı Bağlantısı Kurma:**
+   - Mevcut veritabanı ile bağlantı kurun.
 
-2. **Create Version Table:**
-   - Create a table named "version" in the database.
+2. **Versiyon Tablosu Oluşturma:**
+   - Veritabanında "version" adında bir tablo oluşturun.
 
-3. **Populate Version Table:**
-   - Populate the "version" table with necessary version numbers.
+3. **Versiyon Tablosunu Doldurma:**
+   - "Version" tablosunu gerekli versiyon numaralarıyla doldurun.
 
-4. **Perform Version Check:**
-   - Your program won't perform any update if it detects a version number smaller than the .exe version.
+4. **Versiyon Kontrolü Gerçekleştirme:**
+   - Programınız, .exe versiyonundan daha küçük bir versiyon numarası gördüğünde güncelleme yapmayacaktır.
 
-5. **Perform Update:**
-   - If the .exe version is equal to or greater than the version number specified in the version table, you can perform the update across all open applications.
-  </samp>
+5. **Güncelleme İşlemini Gerçekleştirme:**
+   - .exe versiyonu, versiyon tablosunda belirtilen versiyon numarasına eşit veya daha büyükse, güncelleme işlemini bütün açık olan uygulamalara yapabilirsiniz.
+</samp>
 </p>
