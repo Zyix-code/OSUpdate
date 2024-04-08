@@ -57,5 +57,8 @@
 
 5. **Güncelleme İşlemini Gerçekleştirme:**
    - .exe versiyonu, versiyon tablosunda belirtilen versiyon numarasına eşit veya daha büyükse, güncelleme işlemini bütün açık olan uygulamalara yapabilirsiniz.
-</samp>
+   <hr>
+      <strong>Lisans:</strong> Bu proje <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU Genel Kamu Lisansı</a> (GPL), sürüm 3.0 altında dağıtılmaktadır. Projenin tüm kullanıcıları, lisansın koşullarına uymak kaydıyla projeyi özgürce kullanabilir, değiştirebilir ve paylaşabilir. Daha fazla bilgi için <a href="LICENSE">LİSANS</a> dosyasına bakabilirsiniz.<br>
+      &copy; 2024 <a href="https://github.com/Zyix-code">Selçuk Şahin</a>
+   </samp>
 </p>
